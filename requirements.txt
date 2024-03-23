@@ -1,0 +1,10 @@
+numpy
+pandas
+nltk
+scikit-learn
+torch
+vaderSentiment
+textblob
+pydub
+python-dotenv
+boto3

@@ -1,0 +1,38 @@
+{
+    "LABEL_0": {
+        "icon": "O",
+        "description": "Outside of a named entity"
+    },
+    "LABEL_1": {
+        "icon": "B-MISC",
+        "description": "Beginning of a miscellaneous entity right after another miscellaneous entity"
+    },
+    "LABEL_2": {
+        "icon": "I-MISC",
+        "description": "Miscellaneous entity"
+    },
+    "LABEL_3": {
+        "icon": "B-PER",
+        "description": "Beginning of a person’s name right after another person’s name"
+    },
+    "LABEL_4": {
+        "icon": "I-PER",
+        "description": "Person’s name"
+    },
+    "LABEL_5": {
+        "icon": "B-ORG",
+        "description": "Beginning of an organization right after another organization"
+    },
+    "LABEL_6": {
+        "icon": "I-ORG",
+        "description": "Organization"
+    },
+    "LABEL_7": {
+        "icon": "B-LOC",
+        "description": "Beginning of a location right after another location"
+    },
+    "LABEL_8": {
+        "icon": "I-LOC",
+        "description": "Location"
+    }
+}
